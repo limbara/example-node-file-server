@@ -1,0 +1,1178 @@
+﻿body, div, h1, h2, h3, h4, h5, h6, p {
+	widows: 2;
+	orphans: 2;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	page-break-after: avoid;
+}
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+table {
+	width:100%;
+}
+img, div {
+	padding: 0;
+	margin: 0;
+}
+div.h100 {
+	text-align: center;
+	height: 97%;
+	max-width: 100%;
+	clear: both;
+}
+img.h100 {
+	height: 100%;
+	max-width: 100%;
+}
+div.w100 {
+	text-align: center;
+	max-height: 100%;
+	width: 100%;
+	clear: both;
+	margin: 1em 0;
+}
+img.w100 {
+	max-height: 100%;
+	width: 100%;
+}
+img.h1em {
+	height: 1em;
+}
+img.h2em {
+	height: 2em;
+}
+img.h4em {
+	height: 4em;
+}
+img.arrow {
+	width: 80%;
+}
+div.Caption {
+	margin: 1em 0;
+	page-break-inside: avoid;
+}
+body {
+	-epub-hyphens:auto;
+}
+
+div.Fast-Fact {
+	background-color:#e6e6e7;
+	border-radius:5px;
+	margin: 1em 10%;
+	padding: 1em;
+	page-break-inside: avoid;
+}
+div.clear {
+	clear: both;
+}
+
+div.w30r {
+	text-align: center;
+	max-height: 100%;
+	width: 30%;
+	float: right;
+	clear: right;
+	margin: .5em 0 .5em .2em;
+}
+div.w30c {
+	text-align: center;
+	max-height: 100%;
+	width: 30%;
+	margin: 1em 35%;
+}
+div.w50c {
+	text-align: center;
+	max-height: 100%;
+	margin: 1em 25%;
+	clear: both;
+}
+div.w50r {
+	text-align: center;
+	max-height: 100%;
+	width: 50%;
+	float: right;
+	clear: right;
+	margin: .5em 0 .5em .2em;
+}
+div.w80c {
+	text-align: center;
+	max-height: 100%;
+	margin: 1em 10%;
+	clear: both;
+}
+table.Table {
+	border-collapse:collapse;
+	margin: 1em 0;
+	width:100%;
+}
+td.Table {
+	padding: .35em;
+	vertical-align:top;
+	border-bottom: thin solid #000000;
+}
+td.Head-Right, td.Head-Right-Wide, td.Head-Middle, td.Head-Left {
+	border-bottom: none;
+}
+
+table.Table-w-Head {
+	border-collapse:collapse;
+	margin: 1em 0;
+	width:100%;
+}
+td.Table-w-Head {
+	padding: .15em .35em;
+	vertical-align:top;
+	border-bottom: thin solid #000000;
+}
+
+td.Head-Middle-Thin {
+	background-color:#e6e6e7;
+	border-bottom: 0 solid #272525;
+	border-left: 1px solid #ffffff;
+	border-right: 1px solid #ffffff;
+	border-top: 0 solid #272525;
+	vertical-align:bottom;
+	width: 10%;
+}
+td.Head-Three-Col {
+	border-bottom: 1px solid #ffffff;
+	border-left-width:0;
+	border-right-width:0;
+	border-top-width:0;
+}
+td.Left-Border {
+	border-right-width:1px;
+}
+td.Left-Bottom-Border {
+	border-right-width:1px;
+}
+td.Left-Top-Border {
+	border-right-width:1px;
+}
+td.Middle-Border-2 {
+	border-bottom: 1px solid #272525;
+	border-left: 1px solid #272525;
+	border-right: 1px solid #272525;
+	border-top: 0px solid #272525;
+	vertical-align:top;
+}
+td.Middle-Bottom-Border2 {
+	border-bottom: 1px solid #272525;
+	border-left: 1px solid #272525;
+	border-right: 1px solid #272525;
+	border-top: 0px solid #272525;
+	vertical-align:top;
+}
+td.Middle-Top-Border2 {
+	border-bottom: 1px solid #272525;
+	border-left: 1px solid #272525;
+	border-right: 1px solid #272525;
+	border-top: 0px solid #272525;
+	vertical-align:top;
+}
+td.body {
+	border-bottom: 1px solid #272525;
+	vertical-align:top;
+}
+td.column-heads {
+	background-color:#e6e6e7;
+	vertical-align:bottom;
+}
+p.x01-FM-Contents-BM-Head {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:0.792em;
+	font-style:italic;
+	margin: 0 0 0.74em 0;
+	text-indent:0;
+}
+p.x01-FM-Contents-BM-Head-FL {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:0.75em;
+	font-style:italic;
+	margin: 1.5em 0 0.78em 0;
+	text-indent:0;
+}
+p.x01-FM-Contents-CT {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:0.833em;
+	margin: 0 0 0.7em 0;
+	text-indent:0;
+}
+p.x01-FM-Contents-FM-Head {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:0.833em;
+	margin: 1.0em 0 0.7em 0;
+	text-indent:0;
+}
+p.x01-FM-Contents-PT {
+	font-family: sans-serif; /*"Diverda Sans Com Medium"*/
+	font-size:0.833em;
+	margin: 0.9em 0 0.7em 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Copyright-Imprint {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.583em;
+	margin: 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Copyright-Logo {
+	font-family: sans-serif; /*Arial*/
+	font-size:1em;
+	font-weight:bold;
+	margin: 1.17em 0 0 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Copyright-Text {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.583em;
+	margin: 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Copyright-Text-Space {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.583em;
+	margin: 1.29em 0 0 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Dedi-Body {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 0 0.74em 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Dedi-Body-FL {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 15% 0 0.74em 0;
+	text-align:center;
+	text-indent:0;
+}
+/*May want to look at these*/
+
+h1.x01-FM-Head {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.083em;
+	margin: 15% 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+p.x02-PO-Body-Text {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0;
+	text-indent:0;
+}
+p.x02-Part-Body-Text {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0;
+	text-indent:1.3em;
+}
+li.x02-Part-List-Bulleted {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:square;
+	margin: 0 2.23em 0 2.98em;
+	text-indent:0;
+}
+li.x02-Part-List-Bulleted-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:square;
+	margin: 1.3em 2.23em 0 2.98em;
+	text-indent:0;
+}
+li.x02-Part-List-Bulleted-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:square;
+	margin: 0 2.23em 1.3em 2.98em;
+	text-indent:0;
+}
+h1.x02-Part-Number {
+	font-family: sans-serif; /*"Diverda Sans Com Medium"*/
+	font-size:1.25em;
+	margin: 15% 0 1.13em 0;
+	text-align:center;
+	text-indent:0;
+}
+h1.x02-Part-Title {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.917em;
+	margin: 0 0 2.22em 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x03-CO-Body-Text {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0;
+	text-indent:0;
+}
+h2.x03-Chapter-Number {
+	font-family: sans-serif; /*"Diverda Sans Com Medium"*/
+	font-size:0.875em;
+	margin: 15% 0 2.29em 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+h2.x03-Chapter-Number-Right {
+	font-family: sans-serif; /*"Diverda Sans Com Medium"*/
+	font-size:0.875em;
+	margin: 15% 0 2.29em 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+h2.x03-Chapter-Subtitle {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.083em;
+	margin: 0 0 15% 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+h2.x03-Chapter-Subtitle-2L {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.083em;
+	margin: 0 0 15% 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+h2.x03-Chapter-Title {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.417em;
+	margin: 0 0 1.0em 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+h2.x03-Chapter-Title-Space {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.417em;
+	margin: 15% 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+p.x04-Body-Text {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0;
+	text-indent:1.3em;
+}
+p.x04-Body-Text-FL {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0;
+	text-indent:0;
+}
+p.x04-Space-Break-FL {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 0 0 0;
+	text-indent:0;
+}
+h3.x05-Head-A {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.042em;
+	margin: 1.68em 0 0.56em 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+h4.x05-Head-B {
+	font-family: sans-serif; /*"Diverda Sans Com Medium"*/
+	font-size:0.917em;
+	font-weight: bold;
+	margin: 1.27em 0 0 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+h5.x05-Head-C {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:0.875em;
+	font-style:italic;
+	font-weight:bold;
+	margin: 1.33em 0 0 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+h6.x05-Head-D {
+	font-family: serif; /*"Kepler Std Light"*/
+	font-size:0.917em;
+	font-weight:bold;
+	margin: 1.27em 0 0 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+p.x06-Dialogue {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.12em 0 2.79em;
+	text-indent:-1.67em;
+}
+p.x06-Dialogue-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 1.12em 0 2.79em;
+	text-indent:-1.67em;
+}
+p.x06-Dialogue-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.12em 1.3em 2.79em;
+	text-indent:-1.67em;
+}
+p.x06-E-mail-Closing {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	margin: 0 2.44em 0.78em 2.44em;
+	text-indent:0;
+}
+p.x06-E-mail-Closing-2 {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	margin: 0 2.44em 1.56em 2.44em;
+	text-indent:0;
+}
+p.x06-E-mail-Salutation {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	margin: 1.56em 2.44em 0.78em 2.44em;
+	text-indent:0;
+}
+p.x06-E-mail-Text {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	margin: 0 2.44em 0.78em 2.44em;
+	text-indent:0;
+}
+p.x06-E-mail-Text-1P {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	margin: 1.56em 2.44em;
+	text-indent:0;
+}
+p.x06-E-mail-Text-First {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	margin: 0 2.44em 0.78em 2.44em;
+	text-indent:0;
+}
+p.x06-Epigraph {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	font-style:italic;
+	margin: 1.3em 2.79em 0 2.79em;
+	text-indent:0;
+}
+p.x06-Epigraph-Less {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	font-style:italic;
+	margin: 0 2.79em;
+	text-indent:0;
+}
+p.x06-Epigraph-Source {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.792em;
+	margin: 0 20% 1.47em 20%;
+	text-align:right;
+	text-indent:0;
+}
+p.x06-Epigraph-Source-no-space {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.792em;
+	margin: 0 20%;
+	text-align:right;
+	text-indent:0;
+}
+p.x06-Extract {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.67em;
+	text-indent:1.3em;
+}
+p.x06-Extract-1P {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 1.67em;
+	text-indent:0;
+}
+p.x06-Extract-A {
+	font-family: serif; /*"Kepler Std Light"*/
+	font-size:0.896em;
+	font-weight:bold;
+	margin: 0 1.12em;
+	text-align:center;
+	text-indent:0;
+}
+p.x06-Extract-A-1P {
+	font-family: serif; /*"Kepler Std Light"*/
+	font-size:0.896em;
+	font-weight:bold;
+	margin: 1.3em 1.12em;
+	text-align:center;
+	text-indent:0;
+}
+p.x06-Extract-A-First {
+	font-family: serif; /*"Kepler Std Light"*/
+	font-size:0.896em;
+	font-weight:bold;
+	margin: 1.3em 1.12em 0 1.12em;
+	text-align:center;
+	text-indent:0;
+}
+p.x06-Extract-A-Last {
+	font-family: serif; /*"Kepler Std Light"*/
+	font-size:0.896em;
+	font-weight:bold;
+	margin: 0 1.12em 1.3em 1.12em;
+	text-align:center;
+	text-indent:0;
+}
+p.x06-Extract-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 1.67em 0 1.67em;
+	text-indent:0;
+}
+p.x06-Extract-First-No-Space {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.67em;
+	text-indent:0;
+}
+p.x06-Extract-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.67em 1.3em 1.67em;
+	text-indent:1.3em;
+}
+p.x06-Letter-Closing {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 2.23em;
+	text-indent:1.3em;
+}
+p.x06-Letter-Closing-2 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 2.23em 1.3em 2.23em;
+	text-indent:1.3em;
+}
+p.x06-Verse {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.67em 0 2.67em;
+	text-indent:-1em;
+}
+p.x06-Verse-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 1.67em 0 2.67em;
+	text-indent:-1em;
+}
+p.x06-Verse-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.67em 1.3em 2.67em;
+	text-indent:-1em;
+}
+p.x07-List-2-Column {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 0 0 1.3em;
+	text-indent:0;
+}
+p.x07-List-2-Column-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 0 0 1.3em;
+	text-indent:0;
+}
+p.x07-List-2-Column-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 0 1.3em 1.3em;
+	text-indent:0;
+}
+li, ul, ol {
+	margin: 0;
+	padding: 0;
+	text-indent: 0;
+}
+li.x07-List-Bulleted {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.12em 0 1.86em;
+	text-indent:0;
+}
+li.x07-List-Bulleted-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 1.12em 0 1.86em;
+	text-indent:0;
+}
+li.x07-List-Bulleted-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 1.12em 1.3em 1.86em;
+	text-indent:0;
+}
+li.x07-List-Bulleted-Subentry {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:square;
+	margin: 0 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Bulleted-Subentry-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:square;
+	margin: 0 1.12em 1.3em 2.79em;
+	text-indent:0;
+}
+li.x07-List-Bulleted-Subentry2 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:square;
+	margin: 0 1.12em 0 3.72em;
+	text-indent:0;
+}
+p.x07-List-Head {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	font-weight:bold;
+	margin: 1.3em 0 0 2.4em;
+	text-indent:-1.67em;
+}
+li.x07-List-Numbered {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1-First-No-Space {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 1.3em 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1-Start-3 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1-Start-4 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1-Start-5 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1-Start-7 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-1-Start-9 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 2.79em;
+	text-indent:0;
+}
+li.x07-List-Numbered-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 1.3em 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Space-Start-3 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Space-Start-4 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Space-Start-5 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Space-Start-6 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Space-Start-7 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Space-Start-8 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-10 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-11 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-12 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-13 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-14 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-15 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-16 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-17 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-18 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-19 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-2 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-20 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.3em 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Start-9 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 1.12em 0 1.58em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Subentry {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:upper-alpha;
+	margin: 0 1.12em 0 2.88em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Subentry-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:upper-alpha;
+	margin: 0 1.12em 0 2.88em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Subentry-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	list-style-type:upper-alpha;
+	margin: 0 1.12em 1.3em 2.88em;
+	text-indent:0;
+}
+
+
+p.x07-List-Unnumbered {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 0 0 2.79em;
+	text-indent:-1.67em;
+}
+p.x07-List-Unnumbered-First {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 1.3em 0 0 2.79em;
+	text-indent:-1.67em;
+}
+p.x07-List-Unnumbered-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 0 1.3em 2.79em;
+	text-indent:-1.67em;
+}
+p.x07-List-Unnumbered-Subentry {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 0 0 4.46em;
+	text-indent:-1.67em;
+}
+p.x07-List-Unnumbered-Subentry-Last {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 0 1.3em 4.46em;
+	text-indent:-1.67em;
+}
+p.x08-Table-Body {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.667em;
+	margin: 0;
+	text-indent:0;
+}
+p.x08-Table-Body-center {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.667em;
+	margin: 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x08-Table-Column-Head {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.667em;
+	font-weight:bold;
+	margin: 0;
+	text-indent:0;
+}
+li.x08-Table-List-Bulleted {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.667em;
+	margin: 0 0 0 0.75em;
+	text-indent:0;
+}
+p.x08-Table-Title {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.667em;
+	font-weight:bold;
+	margin: 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x09-Box-Text {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	margin: 0;
+	text-indent:0;
+}
+p.x09-Box-Text-Last {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	margin: 0 0 1.56em 0;
+	text-indent:0;
+}
+p.x09-Box-Title {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.75em;
+	font-weight:bold;
+	margin: 0 0 0.78em 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x12-Caption-2 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.667em;
+	margin: 0 30% 1.75em 30%;
+	text-indent:0;
+}
+p.x12-Caption {
+	font-size:0.8em;
+	font-style: italic;
+	margin: .5em 0 1em 0;
+	text-align: center;
+}
+p.x12-Caption-Less {
+	font-size:0.8em;
+	margin: 0 0 1em 0;
+	text-align: center;
+}
+p.x13-BM-Ack {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0;
+	text-indent:1.3em;
+}
+p.x13-BM-Ack-FL {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0;
+	text-indent:0;
+}
+p.x13-BM-Endnotes {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.708em;
+	margin: 0 0 0 1em;
+	text-indent:-1em;
+}
+p.x13-BM-Endnotes-Head-A {
+	font-family: serif; /*"Kepler Std Light Ext"*/
+	font-size:0.667em;
+	font-weight:bold;
+	margin: 1.87em 0 0 0;
+	text-indent:0;
+}
+p.x13-BM-Endnotes-Text {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.708em;
+	margin: 0 0 0 1em;
+	text-indent:1.06em;
+}
+p.x13-BM-Endnotes_Subentry {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.708em;
+	margin: 0 0 0 1em;
+	text-indent:1.06em;
+}
+h1.x13-BM-Head {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.083em;
+	margin: 15% 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+p.x13-BM-Head-A {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:0.917em;
+	margin: 1.91em 0 0.64em 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+h1.x13-BM-Head-Less {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.083em;
+	margin: 15% 0 0 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+p.x13-BM-Head-Subtitle {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.083em;
+	margin: 0 0 15% 0;
+	page-break-after:avoid;
+	text-align:center;
+	text-indent:0;
+}
+p.x13-BM-Index-1 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.708em;
+	margin: 0 0 0 2.0em;
+	text-indent:-2.0em;
+}
+p.x13-BM-Index-2 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.708em;
+	margin: 0 0 0 2.0em;
+	text-indent:-0.94em;
+}
+p.x13-BM-Index-Alpha {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.708em;
+	margin: 1.06em 0 0 2.0em;
+	text-indent:-2.0em;
+}
+p.x13-BM-Index-Note {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.708em;
+	margin: 1em 0;
+	text-indent:0;
+}
+p.x14-Free-Style-1 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0;
+	text-indent:0;
+}
+
+p.x14-Free-Style-3 {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.896em;
+	margin: 0 0 1.3em 0;
+	text-indent:0;
+}
+p.x14-Free-Style-4 {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.667em;
+	font-weight:bold;
+	margin: 1.75em 0 0 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x14-Free-Style-4-space-below {
+	font-family: sans-serif; /*"Myriad Pro"*/
+	font-size:0.667em;
+	font-weight:bold;
+	margin: 1.75em 0;
+	text-align:center;
+	text-indent:0;
+}
+p.xFootnote-Text {
+	font-family: serif; /*"Kepler Std"*/
+	font-size:0.708em;
+	margin: 0;
+	text-indent:0;
+}
+
+span._2-PO-Stickup-Cap {
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:1.5em;
+	line-height: 0;
+}
+span._6-Dialogue-Speaker {
+	font-size: 70%;
+}
+
+span.BOLD_ITAL {
+	font-style:italic;
+	font-weight:bold;
+}
+sup.endnote {
+	vertical-align:super;
+	font-size: .7em;
+	line-height: 0;
+}
+span.Semibold-Italic {
+	font-style:italic;
+	font-weight:bold;
+}
+span.Wingdings {
+	font-family: sans-serif; /*Wingdings*/
+	vertical-align: middle;
+}
+span.line {
+	text-decoration:underline;
+}
+._idGenDropcap-1 {
+	float:left;
+	font-family: sans-serif; /*"Diverda Sans Com"*/
+	font-size:2.915em;
+    margin-top:-0.45em;
+    margin-right:0.05em;
+    margin-bottom:-0.45em;
+    line-height:1.5em;
+}
+div.footnote {
+	margin-top:15%;
+}

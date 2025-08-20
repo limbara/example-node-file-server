@@ -1,0 +1,239 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="bookid" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta content="Adobe InDesign 11.1" name="generator"/>
+		<meta content="cover.jpg" name="cover"/>
+		<meta content="Portfolio" name="imprint"/>
+		<dc:title>Captivate</dc:title>
+		<dc:creator>Vanessa Van Edwards</dc:creator>
+		<dc:source id="Source_ISBN">9780399564482</dc:source>
+		<dc:publisher>Penguin Publishing Group</dc:publisher>
+		<meta content="2017-03-17" name="created"/>
+		<dc:date>2017-03-29T13:14:29Z</dc:date>
+		<meta property="dcterms:modified">2017-03-29T13:14:29Z</meta>
+		<dc:identifier id="bookid">9780399564505</dc:identifier>
+		<dc:language>en-US</dc:language>
+	<description xmlns="http://purl.org/dc/elements/1.1/">&lt;b&gt;Do you feel awkward at networking events? Do you wonder what your date really thinks of you? Do you wish you could decode people? You need to learn the science of people.&lt;/b&gt;&lt;br&gt; &lt;br&gt; As a human behavior hacker, Vanessa Van Edwards created a research lab to study the hidden forces that drive us. And she's cracked the code. In &lt;i&gt;Captivate&lt;/i&gt;,&lt;i&gt; &lt;/i&gt;she shares shortcuts, systems, and secrets for taking charge of your interactions at work, at home, and in any social situation. These aren't the people skills you learned in school. This is the first comprehensive, science backed, real life manual on how to captivate anyone&amp;#8212;and a completely new approach to building connections.&lt;br&gt; &lt;b&gt; &lt;/b&gt;&lt;br&gt; Just like knowing the formulas to use in a chemistry lab, or the right programming language to build an app, &lt;i&gt;Captivate&lt;/i&gt; provides simple ways to solve people problems. You'll learn, for example...&lt;br&gt; &lt;br&gt; &amp;middot; &lt;b&gt;How to work a room:&lt;/b&gt; Every party, networking event, and...</description>
+</metadata>
+	<manifest>
+		<item href="image/9780399564505_EPUB-19_vector-1.jpg" id="x9780399564505_EPUB-19_vector-1.jpg" media-type="image/jpeg"/>
+		<item href="image/9780399564505_EPUB-13_vector-1.jpg" id="x9780399564505_EPUB-13_vector-1.jpg" media-type="image/jpeg"/>
+		<item href="image/9780399564505_EPUB-13_vector-2.jpg" id="x9780399564505_EPUB-13_vector-2.jpg" media-type="image/jpeg"/>
+		<item href="image/9780399564505_EPUB-13_vector-3.jpg" id="x9780399564505_EPUB-13_vector-3.jpg" media-type="image/jpeg"/>
+		<item href="image/9780399564505_EPUB-13_vector-4.jpg" id="x9780399564505_EPUB-13_vector-4.jpg" media-type="image/jpeg"/>
+		<item href="image/9780399564505_EPUB-13_vector-5.jpg" id="x9780399564505_EPUB-13_vector-5.jpg" media-type="image/jpeg"/>
+		<item href="xhtml/01_Cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+		<item href="xhtml/02_Title_Page.xhtml" id="x9780399564505_EPUB" media-type="application/xhtml+xml"/>
+		<item href="xhtml/03_Copyright.xhtml" id="x9780399564505_EPUB-1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/04_Dedication.xhtml" id="x9780399564505_EPUB-2" media-type="application/xhtml+xml"/>
+		<item href="xhtml/05_Contents.xhtml" id="x9780399564505_EPUB-3" media-type="application/xhtml+xml"/>
+		<item href="xhtml/06_Introduction.xhtml" id="x9780399564505_EPUB-4" media-type="application/xhtml+xml"/>
+		<item href="xhtml/07_PART_I_THE_FIRST_FIVE.xhtml" id="x9780399564505_EPUB-5" media-type="application/xhtml+xml"/>
+		<item href="xhtml/08_Chapter_1_Control_How.xhtml" id="x9780399564505_EPUB-6" media-type="application/xhtml+xml"/>
+		<item href="xhtml/09_Chapter_2_Capture_How.xhtml" id="x9780399564505_EPUB-7" media-type="application/xhtml+xml"/>
+		<item href="xhtml/10_Chapter_3_Spark_How_t.xhtml" id="x9780399564505_EPUB-8" media-type="application/xhtml+xml"/>
+		<item href="xhtml/11_Chapter_4_Highlight_H.xhtml" id="x9780399564505_EPUB-9" media-type="application/xhtml+xml"/>
+		<item href="xhtml/12_Chapter_5_Intrigue_Ho.xhtml" id="x9780399564505_EPUB-10" media-type="application/xhtml+xml"/>
+		<item href="xhtml/13_PART_II_THE_FIRST_FIV.xhtml" id="x9780399564505_EPUB-11" media-type="application/xhtml+xml"/>
+		<item href="xhtml/14_Chapter_6_Decode_How_.xhtml" id="x9780399564505_EPUB-12" media-type="application/xhtml+xml"/>
+		<item href="xhtml/15_Chapter_7_Solve_How_t.xhtml" id="x9780399564505_EPUB-13" media-type="application/xhtml+xml"/>
+		<item href="xhtml/16_Chapter_8_Appreciate_.xhtml" id="x9780399564505_EPUB-14" media-type="application/xhtml+xml"/>
+		<item href="xhtml/17_Chapter_9_Value_How_t.xhtml" id="x9780399564505_EPUB-15" media-type="application/xhtml+xml"/>
+		<item href="xhtml/18_PART_III_THE_FIRST_FI.xhtml" id="x9780399564505_EPUB-16" media-type="application/xhtml+xml"/>
+		<item href="xhtml/19_Chapter_10_Connect_Ho.xhtml" id="x9780399564505_EPUB-17" media-type="application/xhtml+xml"/>
+		<item href="xhtml/20_Chapter_11_Empower_Ho.xhtml" id="x9780399564505_EPUB-18" media-type="application/xhtml+xml"/>
+		<item href="xhtml/21_Chapter_12_Reveal_How.xhtml" id="x9780399564505_EPUB-19" media-type="application/xhtml+xml"/>
+		<item href="xhtml/22_Chapter_13_Protect_Ho.xhtml" id="x9780399564505_EPUB-20" media-type="application/xhtml+xml"/>
+		<item href="xhtml/23_Chapter_14_Engage_How.xhtml" id="x9780399564505_EPUB-21" media-type="application/xhtml+xml"/>
+		<item href="xhtml/24_What_s_Next_.xhtml" id="x9780399564505_EPUB-22" media-type="application/xhtml+xml"/>
+		<item href="xhtml/25_More_Digital_Bonuses.xhtml" id="x9780399564505_EPUB-23" media-type="application/xhtml+xml"/>
+		<item href="xhtml/26_Corporate_Workshops.xhtml" id="x9780399564505_EPUB-24" media-type="application/xhtml+xml"/>
+		<item href="xhtml/27_Appendix_Microexpress.xhtml" id="x9780399564505_EPUB-25" media-type="application/xhtml+xml"/>
+		<item href="xhtml/28_Acknowledgments.xhtml" id="x9780399564505_EPUB-26" media-type="application/xhtml+xml"/>
+		<item href="xhtml/29_Notes.xhtml" id="x9780399564505_EPUB-27" media-type="application/xhtml+xml"/>
+		<item href="xhtml/30_Index.xhtml" id="x9780399564505_EPUB-28" media-type="application/xhtml+xml"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="navDoc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+		<item href="image/02_Man_Sunglasses4.jpg" id="x02_Man_Sunglasses4.jpg" media-type="image/jpeg"/>
+		<item href="image/03_People_Skills_Twitter_Poll_rev.jpg" id="x03_People_Skills_Twitter_Poll_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/08_Paige_Contempt.jpg" id="x08_Paige_Contempt.jpg" media-type="image/jpeg"/>
+		<item href="image/09_Orion_Anger.jpg" id="x09_Orion_Anger.jpg" media-type="image/jpeg"/>
+		<item href="image/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+		<item href="image/100_Maslows_Hierarchy.jpg" id="x100_Maslows_Hierarchy.jpg" media-type="image/jpeg"/>
+		<item href="image/101_Anger.jpg" id="x101_Anger.jpg" media-type="image/jpeg"/>
+		<item href="image/102_Contempt_rev1.jpg" id="x102_Contempt_rev1.jpg" media-type="image/jpeg"/>
+		<item href="image/103_Happiness_rev1.jpg" id="x103_Happiness_rev1.jpg" media-type="image/jpeg"/>
+		<item href="image/104_Fear.jpg" id="x104_Fear.jpg" media-type="image/jpeg"/>
+		<item href="image/105_Surprise.jpg" id="x105_Surprise.jpg" media-type="image/jpeg"/>
+		<item href="image/106_Disgust.jpg" id="x106_Disgust.jpg" media-type="image/jpeg"/>
+		<item href="image/107_Sadness.jpg" id="x107_Sadness.jpg" media-type="image/jpeg"/>
+		<item href="image/10_Ellie_Sadness.jpg" id="x10_Ellie_Sadness.jpg" media-type="image/jpeg"/>
+		<item href="image/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+		<item href="image/15_Danielle_Surprise.jpg" id="x15_Danielle_Surprise.jpg" media-type="image/jpeg"/>
+		<item href="image/16_Max_Fear.jpg" id="x16_Max_Fear.jpg" media-type="image/jpeg"/>
+		<item href="image/17_Paige_Disgust.jpg" id="x17_Paige_Disgust.jpg" media-type="image/jpeg"/>
+		<item href="image/2.jpg" id="x2.jpg" media-type="image/jpeg"/>
+		<item href="image/21_Facial_Attributes_rev.jpg" id="x21_Facial_Attributes_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/22_Typical_Social_Event_Map_rev.jpg" id="x22_Typical_Social_Event_Map_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/23_Typical_Delegate_Truman_Map_rev.jpg" id="x23_Typical_Delegate_Truman_Map_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/24_Trying_to_Win_Votes_Map_rev.jpg" id="x24_Trying_to_Win_Votes_Map_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/25_Truman_Potential_Traps_NEW.jpg" id="x25_Truman_Potential_Traps_NEW.jpg" media-type="image/jpeg"/>
+		<item href="image/26_Truman_Ideal_Map_NEW.jpg" id="x26_Truman_Ideal_Map_NEW.jpg" media-type="image/jpeg"/>
+		<item href="image/27_3_Basic_Zones_Map_NEW2.jpg" id="x27_3_Basic_Zones_Map_NEW2.jpg" media-type="image/jpeg"/>
+		<item href="image/28_Zone_Traps_NEW.jpg" id="x28_Zone_Traps_NEW.jpg" media-type="image/jpeg"/>
+		<item href="image/3.jpg" id="x3.jpg" media-type="image/jpeg"/>
+		<item href="image/30_Social_Zone_Stars_rev.jpg" id="x30_Social_Zone_Stars_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/31_First_Meeting_Survey_rev2.jpg" id="x31_First_Meeting_Survey_rev2.jpg" media-type="image/jpeg"/>
+		<item href="image/32_Glass_with_Napkin.jpg" id="x32_Glass_with_Napkin.jpg" media-type="image/jpeg"/>
+		<item href="image/33_Vertical_handshake_NEW.jpg" id="x33_Vertical_handshake_NEW.jpg" media-type="image/jpeg"/>
+		<item href="image/34_Winner_Loser_Photo.jpg" id="x34_Winner_Loser_Photo.jpg" media-type="image/jpeg"/>
+		<item href="image/35_Launch_Stance.jpg" id="x35_Launch_Stance.jpg" media-type="image/jpeg"/>
+		<item href="image/36_Better_Phone_Image_rev.jpg" id="x36_Better_Phone_Image_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/37_Bogota_graffiti.jpg" id="x37_Bogota_graffiti.jpg" media-type="image/jpeg"/>
+		<item href="image/38_Small_Talk.jpg" id="x38_Small_Talk.jpg" media-type="image/jpeg"/>
+		<item href="image/39_Big_Talk.jpg" id="x39_Big_Talk.jpg" media-type="image/jpeg"/>
+		<item href="image/4.jpg" id="x4.jpg" media-type="image/jpeg"/>
+		<item href="image/40_Sparks.jpg" id="x40_Sparks.jpg" media-type="image/jpeg"/>
+		<item href="image/41_Message_Hello_rev1.jpg" id="x41_Message_Hello_rev1.jpg" media-type="image/jpeg"/>
+		<item href="image/42_Message_Specifics.jpg" id="x42_Message_Specifics.jpg" media-type="image/jpeg"/>
+		<item href="image/43_Hot_Button_Issues_rev1.jpg" id="x43_Hot_Button_Issues_rev1.jpg" media-type="image/jpeg"/>
+		<item href="image/45_Business_card_VVE_new1.jpg" id="x45_Business_card_VVE_new1.jpg" media-type="image/jpeg"/>
+		<item href="image/46_Lollipop.jpg" id="x46_Lollipop.jpg" media-type="image/jpeg"/>
+		<item href="image/47_Valentines_Day_Card.jpg" id="x47_Valentines_Day_Card.jpg" media-type="image/jpeg"/>
+		<item href="image/48_Youre_a_Baller_rev.jpg" id="x48_Youre_a_Baller_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/49_Two_Balls_of_String.jpg" id="x49_Two_Balls_of_String.jpg" media-type="image/jpeg"/>
+		<item href="image/5.jpg" id="x5.jpg" media-type="image/jpeg"/>
+		<item href="image/50_One_common_thread.jpg" id="x50_One_common_thread.jpg" media-type="image/jpeg"/>
+		<item href="image/51_Example_threads_image.jpg" id="x51_Example_threads_image.jpg" media-type="image/jpeg"/>
+		<item href="image/52_What_to_say_Twitter_Poll_rev2.jpg" id="x52_What_to_say_Twitter_Poll_rev2.jpg" media-type="image/jpeg"/>
+		<item href="image/53_People_Context_Interests.jpg" id="x53_People_Context_Interests.jpg" media-type="image/jpeg"/>
+		<item href="image/54_Miscommunication_Person_rev2.jpg" id="x54_Miscommunication_Person_rev2.jpg" media-type="image/jpeg"/>
+		<item href="image/55_Problem_Solution.jpg" id="x55_Problem_Solution.jpg" media-type="image/jpeg"/>
+		<item href="image/56_Anger_Graphic.jpg" id="x56_Anger_Graphic.jpg" media-type="image/jpeg"/>
+		<item href="image/57_Contempt_Graphic.jpg" id="x57_Contempt_Graphic.jpg" media-type="image/jpeg"/>
+		<item href="image/58_Happiness_Graphic.jpg" id="x58_Happiness_Graphic.jpg" media-type="image/jpeg"/>
+		<item href="image/59_Fear_Graphic.jpg" id="x59_Fear_Graphic.jpg" media-type="image/jpeg"/>
+		<item href="image/60_Surprise_Graphic.jpg" id="x60_Surprise_Graphic.jpg" media-type="image/jpeg"/>
+		<item href="image/61_Surprise_v_Fear.jpg" id="x61_Surprise_v_Fear.jpg" media-type="image/jpeg"/>
+		<item href="image/62_Disgust_Graphic.jpg" id="x62_Disgust_Graphic.jpg" media-type="image/jpeg"/>
+		<item href="image/63_Sadness_Graphic.jpg" id="x63_Sadness_Graphic.jpg" media-type="image/jpeg"/>
+		<item href="image/64_Anger_in_the_Wild.jpg" id="x64_Anger_in_the_Wild.jpg" media-type="image/jpeg"/>
+		<item href="image/65_Contempt_in_the_Wild.jpg" id="x65_Contempt_in_the_Wild.jpg" media-type="image/jpeg"/>
+		<item href="image/66_Fake_Happiness_in_the_Wild.jpg" id="x66_Fake_Happiness_in_the_Wild.jpg" media-type="image/jpeg"/>
+		<item href="image/67_Fear_in_the_Wild.jpg" id="x67_Fear_in_the_Wild.jpg" media-type="image/jpeg"/>
+		<item href="image/68_Surprise_in_the_Wild.jpg" id="x68_Surprise_in_the_Wild.jpg" media-type="image/jpeg"/>
+		<item href="image/69_Disgust_in_the_Wild.jpg" id="x69_Disgust_in_the_Wild.jpg" media-type="image/jpeg"/>
+		<item href="image/70_Sadness_in_the_Wild.jpg" id="x70_Sadness_in_the_Wild.jpg" media-type="image/jpeg"/>
+		<item href="image/71_Eyebrow_Raise_rev.jpg" id="x71_Eyebrow_Raise_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/72_OCEAN.jpg" id="x72_OCEAN.jpg" media-type="image/jpeg"/>
+		<item href="image/73_Boss_OCEAN.jpg" id="x73_Boss_OCEAN.jpg" media-type="image/jpeg"/>
+		<item href="image/74_Best_Asset_Survey_rev.jpg" id="x74_Best_Asset_Survey_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/75_OCEAN_Me.jpg" id="x75_OCEAN_Me.jpg" media-type="image/jpeg"/>
+		<item href="image/76_OCEAN_Intern.jpg" id="x76_OCEAN_Intern.jpg" media-type="image/jpeg"/>
+		<item href="image/77_Crystal_Danielle_rev.jpg" id="x77_Crystal_Danielle_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/78_OCEAN_3.jpg" id="x78_OCEAN_3.jpg" media-type="image/jpeg"/>
+		<item href="image/79_United_States_Personality.jpg" id="x79_United_States_Personality.jpg" media-type="image/jpeg"/>
+		<item href="image/81_Appreciation_Matrix.jpg" id="x81_Appreciation_Matrix.jpg" media-type="image/jpeg"/>
+		<item href="image/82_Primary_Secondary_graphic_dual.jpg" id="x82_Primary_Secondary_graphic_dual.jpg" media-type="image/jpeg"/>
+		<item href="image/83_Touch_Map_rev2.jpg" id="x83_Touch_Map_rev2.jpg" media-type="image/jpeg"/>
+		<item href="image/84_Matrix_Blue_Circle_dual.jpg" id="x84_Matrix_Blue_Circle_dual.jpg" media-type="image/jpeg"/>
+		<item href="image/85_Appreciation_Matrix_2.jpg" id="x85_Appreciation_Matrix_2.jpg" media-type="image/jpeg"/>
+		<item href="image/86_Worry_Survey_rev.jpg" id="x86_Worry_Survey_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/87_NYT_Promise_Graph.jpg" id="x87_NYT_Promise_Graph.jpg" media-type="image/jpeg"/>
+		<item href="image/88_Completing_Favor.jpg" id="x88_Completing_Favor.jpg" media-type="image/jpeg"/>
+		<item href="image/89_Leadership_Twitter_Poll_rev.jpg" id="x89_Leadership_Twitter_Poll_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/90_Book_Secret.jpg" id="x90_Book_Secret.jpg" media-type="image/jpeg"/>
+		<item href="image/91_Birthmother.jpg" id="x91_Birthmother.jpg" media-type="image/jpeg"/>
+		<item href="image/92_Jail.jpg" id="x92_Jail.jpg" media-type="image/jpeg"/>
+		<item href="image/93_Firefighter.jpg" id="x93_Firefighter.jpg" media-type="image/jpeg"/>
+		<item href="image/94_Poop_at_work.jpg" id="x94_Poop_at_work.jpg" media-type="image/jpeg"/>
+		<item href="image/95_Regret_Tweet_rev.jpg" id="x95_Regret_Tweet_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/96_Grandma_Muu_Muu_Image.jpg" id="x96_Grandma_Muu_Muu_Image.jpg" media-type="image/jpeg"/>
+		<item href="image/9780399564482_Captivate_TX.jpg" id="x9780399564482_Captivate_TX.jpg" media-type="image/jpeg"/>
+		<item href="image/97_Postsecret_Address.jpg" id="x97_Postsecret_Address.jpg" media-type="image/jpeg"/>
+		<item href="image/98_Accident_graphic.jpg" id="x98_Accident_graphic.jpg" media-type="image/jpeg"/>
+		<item href="image/99_Toxic_People_Twitter_Poll_rev.jpg" id="x99_Toxic_People_Twitter_Poll_rev.jpg" media-type="image/jpeg"/>
+		<item href="image/cover.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+		<item href="image/penguin-logo-for-copyright.jpg" id="penguin-logo-for-copyright.jpg" media-type="image/jpeg"/>
+		<item href="image/PortfolioPenguinLogo_K.jpg" id="PortfolioPenguinLogo_K.jpg" media-type="image/jpeg"/>
+		<item href="xhtml/31_Footnote_1.xhtml" id="x9780399564505_EPUB-6_fn1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/32_Footnote_2.xhtml" id="x9780399564505_EPUB-7_fn1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/33_Footnote_3.xhtml" id="x9780399564505_EPUB-7_fn2" media-type="application/xhtml+xml"/>
+		<item href="xhtml/34_Footnote_4.xhtml" id="x9780399564505_EPUB-7_fn3" media-type="application/xhtml+xml"/>
+		<item href="xhtml/35_Footnote_5.xhtml" id="x9780399564505_EPUB-8_fn1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/36_Footnote_6.xhtml" id="x9780399564505_EPUB-8_fn2" media-type="application/xhtml+xml"/>
+		<item href="xhtml/37_Footnote_7.xhtml" id="x9780399564505_EPUB-8_fn3" media-type="application/xhtml+xml"/>
+		<item href="xhtml/38_Footnote_8.xhtml" id="x9780399564505_EPUB-8_fn4" media-type="application/xhtml+xml"/>
+		<item href="xhtml/39_Footnote_9.xhtml" id="x9780399564505_EPUB-9_fn1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/40_Footnote_10.xhtml" id="x9780399564505_EPUB-12_fn1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/41_Footnote_11.xhtml" id="x9780399564505_EPUB-12_fn2" media-type="application/xhtml+xml"/>
+		<item href="xhtml/42_Footnote_12.xhtml" id="x9780399564505_EPUB-13_fn1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/43_Footnote_13.xhtml" id="x9780399564505_EPUB-13_fn2" media-type="application/xhtml+xml"/>
+		<item href="xhtml/44_Footnote_14.xhtml" id="x9780399564505_EPUB-13_fn3" media-type="application/xhtml+xml"/>
+		<item href="xhtml/45_Footnote_15.xhtml" id="x9780399564505_EPUB-13_fn4" media-type="application/xhtml+xml"/>
+		<item href="xhtml/46_Footnote_16.xhtml" id="x9780399564505_EPUB-15_fn1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/47_Footnote_17.xhtml" id="x9780399564505_EPUB-17_fn1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/48_Footnote_18.xhtml" id="x9780399564505_EPUB-18_fn1" media-type="application/xhtml+xml"/>
+		<item href="font/Fort-Book.otf" id="Fort-Book.otf" media-type="application/vnd.ms-opentype"/>
+		<item href="font/Shift-BoldItalic.otf" id="Shift-BoldItalic.otf" media-type="application/vnd.ms-opentype"/>
+		<item href="font/Shift-Light.otf" id="Shift-Light.otf" media-type="application/vnd.ms-opentype"/>
+		<item href="xhtml/49_next-reads.xhtml" id="x49_next-reads.xhtml" media-type="application/xhtml+xml"/>
+		<item href="image/next-reads_logo.jpg" id="next-reads_logo.jpg" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover"/>
+		<itemref idref="x9780399564505_EPUB"/>
+		<itemref idref="x9780399564505_EPUB-1"/>
+		<itemref idref="x9780399564505_EPUB-2"/>
+		<itemref idref="x9780399564505_EPUB-3"/>
+		<itemref idref="x9780399564505_EPUB-4"/>
+		<itemref idref="x9780399564505_EPUB-5"/>
+		<itemref idref="x9780399564505_EPUB-6"/>
+		<itemref idref="x9780399564505_EPUB-7"/>
+		<itemref idref="x9780399564505_EPUB-8"/>
+		<itemref idref="x9780399564505_EPUB-9"/>
+		<itemref idref="x9780399564505_EPUB-10"/>
+		<itemref idref="x9780399564505_EPUB-11"/>
+		<itemref idref="x9780399564505_EPUB-12"/>
+		<itemref idref="x9780399564505_EPUB-13"/>
+		<itemref idref="x9780399564505_EPUB-14"/>
+		<itemref idref="x9780399564505_EPUB-15"/>
+		<itemref idref="x9780399564505_EPUB-16"/>
+		<itemref idref="x9780399564505_EPUB-17"/>
+		<itemref idref="x9780399564505_EPUB-18"/>
+		<itemref idref="x9780399564505_EPUB-19"/>
+		<itemref idref="x9780399564505_EPUB-20"/>
+		<itemref idref="x9780399564505_EPUB-21"/>
+		<itemref idref="x9780399564505_EPUB-22"/>
+		<itemref idref="x9780399564505_EPUB-23"/>
+		<itemref idref="x9780399564505_EPUB-24"/>
+		<itemref idref="x9780399564505_EPUB-25"/>
+		<itemref idref="x9780399564505_EPUB-26"/>
+		<itemref idref="x9780399564505_EPUB-27"/>
+		<itemref idref="x9780399564505_EPUB-28"/>
+		<itemref idref="x9780399564505_EPUB-6_fn1" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-7_fn1" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-7_fn2" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-7_fn3" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-8_fn1" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-8_fn2" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-8_fn3" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-8_fn4" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-9_fn1" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-12_fn1" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-12_fn2" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-13_fn1" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-13_fn2" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-13_fn3" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-13_fn4" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-15_fn1" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-17_fn1" linear="no"/>
+		<itemref idref="x9780399564505_EPUB-18_fn1" linear="no"/>
+		<itemref idref="x49_next-reads.xhtml"/>
+	</spine>
+	<guide>
+		<reference href="xhtml/01_Cover.xhtml" title="Cover" type="cover"/>
+		<reference href="xhtml/05_Contents.xhtml" title="Table of Contents" type="toc"/>
+		<reference href="xhtml/06_Introduction.xhtml" title="Start" type="text"/>
+	</guide>
+</package>
